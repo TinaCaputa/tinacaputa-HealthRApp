@@ -160,6 +160,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\header-bg.jpg" />
+    <Content Include="Images\logo.PNG" />
     <Content Include="Images\portofolio\01.jpg" />
     <Content Include="Images\portofolio\02.jpg" />
     <Content Include="Images\portofolio\03.jpg" />
