@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HealthRApp")]
+[assembly: AssemblyTitle("OrionCeramica")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HealthRApp")]
+[assembly: AssemblyProduct("OrionCeramica")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b177ed77-320e-4cc7-88bc-fdf9f76f4c8b")]
+[assembly: Guid("f3121cb2-7f50-4345-ae73-9582a8121cb2")]
 
 // Version information for an assembly consists of the following four values:
 //

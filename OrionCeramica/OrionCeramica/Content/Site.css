@@ -15,7 +15,11 @@
 .dl-horizontal dt {
     white-space: normal;
 }
-
+#container body-content
+{
+    position:relative;
+    bottom:30px;
+}
 /* Set width on the form input elements since they're 100% wide by default */
 input,
 select,

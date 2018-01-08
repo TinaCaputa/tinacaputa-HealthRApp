@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace HealthRApp
+namespace OrionCeramica
 {
     public class FilterConfig
     {

@@ -83,9 +83,11 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-size: 22px;
-	color: #ddd;
-	font-weight: 700;
+    font-size: 22px;
+    color: #ddd;
+    font-weight: 700;
+    position: relative;
+    bottom: 25px;
 }
 #menu a.navbar-brand i.fa {
 	color: #88bb45;
@@ -457,6 +459,12 @@ label {
 }
 .hover-bg .hover-text {
 	padding: 15% 10%;
+}
+
+#loginClass{
+    position:relative;
+    left:500px;
+    bottom:10px;
 }
 }
 
